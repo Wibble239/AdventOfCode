@@ -5,7 +5,7 @@ def safe_check(x):
                 return False        
         return True
 
-with open("AdventOfCode/2024/Day2/input.txt") as f:
+with open("AdventOfCode/2024/Day02/input.txt") as f:
     data = f.readlines()
 
 count = 0

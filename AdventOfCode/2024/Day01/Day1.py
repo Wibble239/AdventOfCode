@@ -1,6 +1,6 @@
 import numpy as np
 
-with open("AdventOfCode/2024/Day1/input.txt") as f:
+with open("AdventOfCode/2024/Day01/input.txt") as f:
     data = f.readlines()
 
 left = []
